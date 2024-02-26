@@ -80,5 +80,3 @@ UPnP Device:
   Services Type: urn:schemas-dummy-com:service:Dummy:1
 ```
 打包成二进制文件可以直接执行
-
-![img.png](img/1.png)
