@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build SeeIn" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
+    <module name="SeeIn" />
+    <working_directory value="$PROJECT_DIR$" />
+    <parameters value="-u http://175.205.17.185:5531/rss/Starter_desc.xml" />
+    <kind value="PACKAGE" />
+    <package value="SeeIn" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/pkg/upnp/upnp.go" />
+    <method v="2" />
+  </configuration>
+</component>

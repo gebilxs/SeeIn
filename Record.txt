@@ -1,0 +1,74 @@
+D:\Go\workSpace\SeeIn>go run main.go fetch -u http://121.152.159.108:5531/rss/Starter_desc.xml
+UPnP Device:
+  Device Type: urn:d-link-com:D-Link-Starter:1
+  Friendly Name: Wireless AC Dual Band Router
+  Model Name: D-Link DIR-806A
+  Model Number: Wireless AC Dual Band Router
+  Model Description: ADSL
+  Model URL: http://www.dlink.com
+  Manufacturer: D-Link Corporation
+  Manufacturer URL: Http://www.dlink.com/
+  Serial Number:
+  UDN: uuid:00000000-0008-2fe4-0400-4000009b4001
+  Presentation URL: http://121.152.159.108/
+  Services Type: urn:d-link-com:service:D-Link-Starter:1
+
+D:\Go\workSpace\SeeIn>go run main.go fetch -u http://175.205.17.185:5531/rss/Starter_desc.xml
+UPnP Device:
+  Device Type: urn:d-link-com:D-Link-Starter:1
+  Friendly Name: Wireless AC Dual Band Router
+  Model Name: D-Link DIR-806A
+  Model Number: Wireless AC Dual Band Router
+  Model Description: ADSL
+  Model URL: http://www.dlink.com
+  Manufacturer: D-Link Corporation
+  Manufacturer URL: Http://www.dlink.com/
+  Serial Number:
+  UDN: uuid:00000000-0008-2fe4-0400-4000009b4001
+  Presentation URL: http://175.205.17.185/
+  Services Type: urn:d-link-com:service:D-Link-Starter:1
+
+D:\Go\workSpace\SeeIn>go run main.go fetch -u http://121.152.159.108:5531/rss/Starter_desc.xml
+UPnP Device:
+  Device Type: urn:d-link-com:D-Link-Starter:1
+  Friendly Name: Wireless AC Dual Band Router
+  Model Name: D-Link DIR-806A
+  Model Number: Wireless AC Dual Band Router
+  Model Description: ADSL
+  Model URL: http://www.dlink.com
+  Manufacturer: D-Link Corporation
+  Manufacturer URL: Http://www.dlink.com/
+  Serial Number:
+  UDN: uuid:00000000-0008-2fe4-0400-4000009b4001
+  Presentation URL: http://121.152.159.108/
+  Services Type: urn:d-link-com:service:D-Link-Starter:1
+
+D:\Go\workSpace\SeeIn>go run main.go fetch -u http://175.205.17.185:5531/rss/Starter_desc.xml
+UPnP Device:
+  Device Type: urn:d-link-com:D-Link-Starter:1
+  Friendly Name: Wireless AC Dual Band Router
+  Model Name: D-Link DIR-806A
+  Model Number: Wireless AC Dual Band Router
+  Model Description: ADSL
+  Model URL: http://www.dlink.com
+  Manufacturer: D-Link Corporation
+  Manufacturer URL: Http://www.dlink.com/
+  Serial Number:
+  UDN: uuid:00000000-0008-2fe4-0400-4000009b4001
+  Presentation URL: http://175.205.17.185/
+  Services Type: urn:d-link-com:service:D-Link-Starter:1
+
+D:\Go\workSpace\SeeIn>go run main.go fetch -u http://125.143.82.72:5531/rss/Starter_desc.xml
+UPnP Device:
+  Device Type: urn:d-link-com:D-Link-Starter:1
+  Friendly Name: Wireless AC Dual Band Router
+  Model Name: D-Link DIR-806A
+  Model Number: Wireless AC Dual Band Router
+  Model Description: ADSL
+  Model URL: http://www.dlink.com
+  Manufacturer: D-Link Corporation
+  Manufacturer URL: Http://www.dlink.com/
+  Serial Number:
+  UDN: uuid:00000000-0008-2fe4-0400-4000009b4001
+  Presentation URL: http://125.143.82.72/
+  Services Type: urn:d-link-com:service:D-Link-Starter:1
