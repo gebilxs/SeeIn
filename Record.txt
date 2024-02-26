@@ -1,4 +1,4 @@
-D:\Go\workSpace\SeeIn>go run main.go fetch -u http://121.152.159.108:5531/rss/Starter_desc.xml
+\SeeIn>go run main.go fetch -u http://121.152.159.108:5531/rss/Starter_desc.xml
 UPnP Device:
   Device Type: urn:d-link-com:D-Link-Starter:1
   Friendly Name: Wireless AC Dual Band Router

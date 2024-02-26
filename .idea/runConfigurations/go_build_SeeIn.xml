@@ -2,7 +2,7 @@
   <configuration default="false" name="go build SeeIn" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
     <module name="SeeIn" />
     <working_directory value="$PROJECT_DIR$" />
-    <parameters value="-u http://175.205.17.185:5531/rss/Starter_desc.xml" />
+    <parameters value="fetch -u http://175.205.17.185:5531/rss/Starter_desc.xml -s" />
     <kind value="PACKAGE" />
     <package value="SeeIn" />
     <directory value="$PROJECT_DIR$" />
